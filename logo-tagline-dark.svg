@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 100">
+  <path d="M33 66.52 A26 26 0 1 1 59 66.52" fill="none" stroke="#1FA876" stroke-width="6.76" stroke-linecap="round"/>
+  <circle cx="59" cy="66.52" r="4.42" fill="#15D6C0"/>
+  <path d="M36.9 47.12 L46 37.24 L55.1 47.12" fill="none" stroke="#F7F8F6" stroke-width="5.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="90" y="50" font-family="'Neue Haas Grotesk Display','Inter',Arial,sans-serif" font-size="32" font-weight="600" letter-spacing="2" fill="#F7F8F6">RENOVIA</text>
+  <text x="91" y="72" font-family="'Inter',Arial,sans-serif" font-size="11" letter-spacing="0.3" fill="#9DB0A6">Connecting Resources. Sustaining Futures.</text>
+</svg>
